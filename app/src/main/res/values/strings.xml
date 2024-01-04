@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuicTranslate</string>
+    <string name="source_text">Source Text</string>
+    <string name="or">OR</string>
+    <string name="record">Say Something</string>
+    <string name="translate">Translate</string>
+    <string name="translated_text">Translated Text</string>
+</resources>

@@ -1,0 +1,2 @@
+# QuicTranslate
+Android Studio Project

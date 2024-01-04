@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952307506186",
+    "project_id": "quictranslate",
+    "storage_bucket": "quictranslate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952307506186:android:8ee1858d671bc3037093f3",
+        "android_client_info": {
+          "package_name": "com.elzaba.quictranslate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwcxgMrnTTERXGai_CKRGKnJ4kzFFdQ8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
